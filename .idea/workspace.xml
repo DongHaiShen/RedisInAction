@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7791d271-bf7f-4bc0-900b-817b6c1d9a02" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap05/States.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2408">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap05/LiveConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-98">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3887#3917#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap06/Chapter06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2755#2763#0" expanded="true" />
+                <element signature="e#8555#8563#0" expanded="true" />
+                <element signature="e#12750#12759#0" expanded="true" />
+                <element signature="e#13478#13479#0" expanded="true" />
+                <element signature="e#13533#13534#0" expanded="true" />
+                <element signature="e#13744#13752#0" expanded="true" />
+                <element signature="e#14505#14506#0" expanded="true" />
+                <element signature="e#14559#14560#0" expanded="true" />
+                <element signature="e#14632#14633#0" expanded="true" />
+                <element signature="e#14683#14684#0" expanded="true" />
+                <element signature="e#14690#14720#0" expanded="true" />
+                <element signature="e#16152#16153#0" expanded="true" />
+                <element signature="e#16209#16210#0" expanded="true" />
+                <element signature="e#21819#21835#0" expanded="true" />
+                <element signature="e#22280#22310#0" expanded="true" />
+                <element signature="e#22522#22529#0" expanded="true" />
+                <element signature="e#23080#23094#0" expanded="true" />
+                <element signature="e#23148#23158#0" expanded="true" />
+                <element signature="e#23211#23221#0" expanded="true" />
+                <element signature="e#23635#23656#0" expanded="true" />
+                <element signature="e#29384#29385#0" expanded="true" />
+                <element signature="e#29419#29420#0" expanded="true" />
+                <element signature="e#31262#31268#0" expanded="true" />
+                <element signature="e#31356#31364#0" expanded="true" />
+                <element signature="e#31713#31714#0" expanded="true" />
+                <element signature="e#31789#31790#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap07/Chapter07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="711" column="24" selection-start-line="711" selection-start-column="15" selection-end-line="711" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#476#484#0" expanded="true" />
+                <element signature="e#1457#1458#0" expanded="true" />
+                <element signature="e#1494#1495#0" expanded="true" />
+                <element signature="e#2541#2549#0" expanded="true" />
+                <element signature="e#2928#2936#0" expanded="true" />
+                <element signature="e#4165#4173#0" expanded="true" />
+                <element signature="e#4905#4913#0" expanded="true" />
+                <element signature="e#6057#6073#0" expanded="true" />
+                <element signature="e#7258#7275#0" expanded="true" />
+                <element signature="e#8061#8072#0" expanded="true" />
+                <element signature="e#8233#8244#0" expanded="true" />
+                <element signature="e#8629#8647#0" expanded="true" />
+                <element signature="e#9496#9512#0" expanded="true" />
+                <element signature="e#12526#12534#0" expanded="true" />
+                <element signature="e#15203#15211#0" expanded="true" />
+                <element signature="e#16317#16325#0" expanded="true" />
+                <element signature="e#17372#17402#0" expanded="true" />
+                <element signature="e#18274#18304#0" expanded="true" />
+                <element signature="e#19478#19479#0" expanded="true" />
+                <element signature="e#19529#19530#0" expanded="true" />
+                <element signature="e#19723#19732#0" expanded="true" />
+                <element signature="e#20320#20329#0" expanded="true" />
+                <element signature="e#21447#21463#0" expanded="true" />
+                <element signature="e#21200#21214#0" expanded="true" />
+                <element signature="e#22344#22374#0" expanded="true" />
+                <element signature="e#23820#23837#0" expanded="true" />
+                <element signature="e#25959#25989#0" expanded="true" />
+                <element signature="e#29599#29629#0" expanded="true" />
+                <element signature="e#30294#30302#0" expanded="true" />
+                <element signature="e#31274#31288#0" expanded="true" />
+                <element signature="e#31347#31355#0" expanded="true" />
+                <element signature="e#32551#32552#0" expanded="true" />
+                <element signature="e#32600#32601#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap08/Chapter08.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#7244#7260#0" expanded="true" />
+                <element signature="e#7710#7740#0" expanded="true" />
+                <element signature="e#9144#9174#0" expanded="true" />
+                <element signature="e#10473#10474#0" expanded="true" />
+                <element signature="e#10534#10535#0" expanded="true" />
+                <element signature="e#11550#11551#0" expanded="true" />
+                <element signature="e#11609#11610#0" expanded="true" />
+                <element signature="e#14359#14389#0" expanded="true" />
+                <element signature="e#14826#14847#0" expanded="true" />
+                <element signature="e#16054#16061#0" expanded="true" />
+                <element signature="e#17141#17142#0" expanded="true" />
+                <element signature="e#17202#17203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap09/Chapter09.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1708">
+              <caret line="378" column="40" selection-start-line="378" selection-start-column="40" selection-end-line="378" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1855#1872#0" expanded="true" />
+                <element signature="e#2523#2524#0" expanded="true" />
+                <element signature="e#2560#2561#0" expanded="true" />
+                <element signature="e#9119#9132#0" expanded="true" />
+                <element signature="e#11149#11162#0" expanded="true" />
+                <element signature="e#11223#11248#0" expanded="true" />
+                <element signature="e#12476#12489#0" expanded="true" />
+                <element signature="e#12550#12575#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sadd</find>
+      <find>300</find>
+      <find>ipToScore</find>
+      <find>is</find>
+      <find>baseEcpm</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/chap01/ArticleVote.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap02/LoginCookies.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap02/ShopppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap02/CacheRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap02/CacheRows.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/chap04/ListItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap04/Chapter04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap04/PurchaseItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap04/BenchmarkUpdateToken.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/LogRecent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/LogCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/Constant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/Chaptor05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/TimeCounters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/Ac.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/States.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/IpLookup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap05/LiveConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap06/Chapter06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap07/Chapter07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap09/Chapter09.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap08/Chapter08.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RedisInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RedisInAction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RedisInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RedisInAction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RedisInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RedisInAction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RedisInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RedisInAction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552030199915" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Softwares/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Chapter09">
+    <configuration name="Chapter06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.Chapter06" />
+      <module name="RedisInAction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.Chapter07" />
+      <module name="RedisInAction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.Chapter08" />
+      <module name="RedisInAction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap09.Chapter09" />
+      <module name="RedisInAction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiveConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.LiveConfig" />
+      <module name="RedisInAction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Chapter09" />
+        <item itemvalue="Application.Chapter08" />
+        <item itemvalue="Application.Chapter07" />
+        <item itemvalue="Application.Chapter06" />
+        <item itemvalue="Application.LiveConfig" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7791d271-bf7f-4bc0-900b-817b6c1d9a02" name="Default Changelist" comment="" />
+      <created>1551942048789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551942048789</updated>
+      <workItem from="1551942050160" duration="11934000" />
+      <workItem from="1551966949418" duration="85000" />
+      <workItem from="1552008603796" duration="11277000" />
+      <workItem from="1552026895106" duration="575000" />
+      <workItem from="1552027572611" duration="2661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26532000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.18271954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.2776204" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3045326" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="9" side_tool="true" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/ZParams.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap02/CacheRows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2349#2350#0" expanded="true" />
+            <element signature="e#2384#2385#0" expanded="true" />
+            <element signature="e#4112#4113#0" expanded="true" />
+            <element signature="e#4160#4161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap02/ShopppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3000#3001#0" expanded="true" />
+            <element signature="e#3035#3036#0" expanded="true" />
+            <element signature="e#3720#3728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap02/LoginCookies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1640#1641#0" expanded="true" />
+            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2665#2666#0" expanded="true" />
+            <element signature="e#3442#3450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap01/ArticleVote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="118" column="55" selection-start-line="118" selection-start-column="55" selection-end-line="118" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#2415#2431#0" expanded="true" />
+            <element signature="e#3455#3456#0" expanded="true" />
+            <element signature="e#3511#3512#0" expanded="true" />
+            <element signature="e#4199#4220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap04.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap02/CacheRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap04/Chapter04.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap04/ListItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="99" column="45" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap04/PurchaseItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap04/BenchmarkUpdateToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/LogRecent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-777">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/Chaptor05.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/LogCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/TimeCounters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3238#3262#0" expanded="true" />
+            <element signature="e#4159#4160#0" expanded="true" />
+            <element signature="e#4194#4195#0" expanded="true" />
+            <element signature="e#5417#5425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/Ac.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-csv/1.4/commons-csv-1.4.jar!/org/apache/commons/csv/CSVParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/IpLookup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/States.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2408">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap05/LiveConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3887#3917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap06/Chapter06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2755#2763#0" expanded="true" />
+            <element signature="e#8555#8563#0" expanded="true" />
+            <element signature="e#12750#12759#0" expanded="true" />
+            <element signature="e#13478#13479#0" expanded="true" />
+            <element signature="e#13533#13534#0" expanded="true" />
+            <element signature="e#13744#13752#0" expanded="true" />
+            <element signature="e#14505#14506#0" expanded="true" />
+            <element signature="e#14559#14560#0" expanded="true" />
+            <element signature="e#14632#14633#0" expanded="true" />
+            <element signature="e#14683#14684#0" expanded="true" />
+            <element signature="e#14690#14720#0" expanded="true" />
+            <element signature="e#16152#16153#0" expanded="true" />
+            <element signature="e#16209#16210#0" expanded="true" />
+            <element signature="e#21819#21835#0" expanded="true" />
+            <element signature="e#22280#22310#0" expanded="true" />
+            <element signature="e#22522#22529#0" expanded="true" />
+            <element signature="e#23080#23094#0" expanded="true" />
+            <element signature="e#23148#23158#0" expanded="true" />
+            <element signature="e#23211#23221#0" expanded="true" />
+            <element signature="e#23635#23656#0" expanded="true" />
+            <element signature="e#29384#29385#0" expanded="true" />
+            <element signature="e#29419#29420#0" expanded="true" />
+            <element signature="e#31262#31268#0" expanded="true" />
+            <element signature="e#31356#31364#0" expanded="true" />
+            <element signature="e#31713#31714#0" expanded="true" />
+            <element signature="e#31789#31790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap07/Chapter07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="711" column="24" selection-start-line="711" selection-start-column="15" selection-end-line="711" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#476#484#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#1494#1495#0" expanded="true" />
+            <element signature="e#2541#2549#0" expanded="true" />
+            <element signature="e#2928#2936#0" expanded="true" />
+            <element signature="e#4165#4173#0" expanded="true" />
+            <element signature="e#4905#4913#0" expanded="true" />
+            <element signature="e#6057#6073#0" expanded="true" />
+            <element signature="e#7258#7275#0" expanded="true" />
+            <element signature="e#8061#8072#0" expanded="true" />
+            <element signature="e#8233#8244#0" expanded="true" />
+            <element signature="e#8629#8647#0" expanded="true" />
+            <element signature="e#9496#9512#0" expanded="true" />
+            <element signature="e#12526#12534#0" expanded="true" />
+            <element signature="e#15203#15211#0" expanded="true" />
+            <element signature="e#16317#16325#0" expanded="true" />
+            <element signature="e#17372#17402#0" expanded="true" />
+            <element signature="e#18274#18304#0" expanded="true" />
+            <element signature="e#19478#19479#0" expanded="true" />
+            <element signature="e#19529#19530#0" expanded="true" />
+            <element signature="e#19723#19732#0" expanded="true" />
+            <element signature="e#20320#20329#0" expanded="true" />
+            <element signature="e#21447#21463#0" expanded="true" />
+            <element signature="e#21200#21214#0" expanded="true" />
+            <element signature="e#22344#22374#0" expanded="true" />
+            <element signature="e#23820#23837#0" expanded="true" />
+            <element signature="e#25959#25989#0" expanded="true" />
+            <element signature="e#29599#29629#0" expanded="true" />
+            <element signature="e#30294#30302#0" expanded="true" />
+            <element signature="e#31274#31288#0" expanded="true" />
+            <element signature="e#31347#31355#0" expanded="true" />
+            <element signature="e#32551#32552#0" expanded="true" />
+            <element signature="e#32600#32601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap09/Chapter09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1708">
+          <caret line="378" column="40" selection-start-line="378" selection-start-column="40" selection-end-line="378" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1855#1872#0" expanded="true" />
+            <element signature="e#2523#2524#0" expanded="true" />
+            <element signature="e#2560#2561#0" expanded="true" />
+            <element signature="e#9119#9132#0" expanded="true" />
+            <element signature="e#11149#11162#0" expanded="true" />
+            <element signature="e#11223#11248#0" expanded="true" />
+            <element signature="e#12476#12489#0" expanded="true" />
+            <element signature="e#12550#12575#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap08/Chapter08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7244#7260#0" expanded="true" />
+            <element signature="e#7710#7740#0" expanded="true" />
+            <element signature="e#9144#9174#0" expanded="true" />
+            <element signature="e#10473#10474#0" expanded="true" />
+            <element signature="e#10534#10535#0" expanded="true" />
+            <element signature="e#11550#11551#0" expanded="true" />
+            <element signature="e#11609#11610#0" expanded="true" />
+            <element signature="e#14359#14389#0" expanded="true" />
+            <element signature="e#14826#14847#0" expanded="true" />
+            <element signature="e#16054#16061#0" expanded="true" />
+            <element signature="e#17141#17142#0" expanded="true" />
+            <element signature="e#17202#17203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RedisInAction</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.commons:commons-pool2:2.4.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
